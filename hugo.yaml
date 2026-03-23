@@ -5,6 +5,7 @@ title: 'Preskinole - the Prescott Arizona Crokinole Club'
 module:
   imports:
     - path: github.com/orangeru-work/hugo-theme-hyde-club
+      version: v0.1.0
     - path: github.com/bakerag1/hugo-build-info
 
 markup:
