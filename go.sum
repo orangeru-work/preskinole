@@ -2,3 +2,5 @@ github.com/bakerag1/hugo-build-info v0.3.0 h1:tFSmHntu1TIhW2CVVvwWQfZLXWKq06++ol
 github.com/bakerag1/hugo-build-info v0.3.0/go.mod h1:NWapBpGLCVGMb0V5/IEo1x+SFdH2kAgx0PbmlghUz+A=
 github.com/spf13/hyde v1.4.0 h1:Gj/OBBonFXRW2g4uGylUB/j7HnGOMcT40AFbBQZpGJY=
 github.com/spf13/hyde v1.4.0/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=
+github.com/spf13/hyde v1.4.1 h1:sOpc9qSQxi+MhMOMl9p2Ne9pFt3zN4doxekzFBYfCYs=
+github.com/spf13/hyde v1.4.1/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=
