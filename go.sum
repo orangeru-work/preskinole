@@ -1,6 +1,4 @@
 github.com/bakerag1/hugo-build-info v0.3.0 h1:tFSmHntu1TIhW2CVVvwWQfZLXWKq06++olPQ/eEsXkI=
 github.com/bakerag1/hugo-build-info v0.3.0/go.mod h1:NWapBpGLCVGMb0V5/IEo1x+SFdH2kAgx0PbmlghUz+A=
-github.com/orangeru-work/hugo-theme-hyde-club v0.1.0 h1:mzU2YPk62lL6Gk8PdmSoNu7EAi4GRc2ZBumRdhwZRKY=
-github.com/orangeru-work/hugo-theme-hyde-club v0.1.0/go.mod h1:HQjHdmbTHgvRG5RfhYVHSz5zwLkga41gxcclTRWsAWw=
-github.com/spf13/hyde v1.4.1 h1:sOpc9qSQxi+MhMOMl9p2Ne9pFt3zN4doxekzFBYfCYs=
-github.com/spf13/hyde v1.4.1/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=
+github.com/orangeru-work/hugo-theme-hyde-club v0.2.0 h1:DHC2cRE2JlCULC9xqb9Kz+StTaWMWcIdeqJXXZXsDKM=
+github.com/orangeru-work/hugo-theme-hyde-club v0.2.0/go.mod h1:HQjHdmbTHgvRG5RfhYVHSz5zwLkga41gxcclTRWsAWw=
