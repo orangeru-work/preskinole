@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Preskinole//Club Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Preskinole Club Calendar
+{{- $summary := .Title | replace "\\" "\\\\" | replace "," "\\," | replace ";" "\\;" | replace "\n" "\\n" -}}
+{{- $description := .Plain | replace "\\" "\\\\" | replace "," "\\," | replace ";" "\\;" | replace "\n" "\\n" -}}
+{{- $location := .Params.event.location | default "" | replace "\\" "\\\\" | replace "," "\\," | replace ";" "\\;" | replace "\n" "\\n" -}}
+BEGIN:VEVENT
+UID:{{ .Permalink }}
+DTSTAMP:{{ now.UTC.Format "20060102T150405Z" }}
+DTSTART:{{ (time.AsTime .Params.event.startdate).UTC.Format "20060102T150405Z" }}
+{{- with .Params.event.enddate }}
+DTEND:{{ (time.AsTime .).UTC.Format "20060102T150405Z" }}
+{{- end }}
+SUMMARY:{{ $summary }}
+{{- if $location }}
+LOCATION:{{ $location }}
+{{- end }}
+DESCRIPTION:{{ $description }}
+URL:{{ .Permalink }}
+END:VEVENT
+END:VCALENDAR
