@@ -1,4 +1,6 @@
 github.com/orangeru-work/hugo-build-info v0.3.1 h1:OtXw+7i9gQG9d5RdpYqu/f6broJPdZZTTiaPNhJXkCg=
 github.com/orangeru-work/hugo-build-info v0.3.1/go.mod h1:rFw4XhGhcXjicmnPR8eUvtbXoPJGoJ8rnOPQ/M0i1Os=
+github.com/orangeru-work/hugo-orangeru-events v0.6.0 h1:S92TtJKRrQ/laZfdvmr7mMaIdEGVZ5lUlroEdJp67MU=
+github.com/orangeru-work/hugo-orangeru-events v0.6.0/go.mod h1:b8IEj5V6KltdgJK/bIn2DHZzaUmodcjOhWVlGpBz/yQ=
 github.com/orangeru-work/hugo-theme-clubhouse v0.0.0-20260419185941-14956af2e6f1 h1:PYU79aDB2yD3TSUVk8wTVeHDd0mjrzCsB8ES01sk8jQ=
 github.com/orangeru-work/hugo-theme-clubhouse v0.0.0-20260419185941-14956af2e6f1/go.mod h1:uXLH/tNxvRTPAFuJu2RilpbqCrkc/L8C5SlxyeiFGxw=
